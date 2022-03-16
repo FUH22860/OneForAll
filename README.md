@@ -7,7 +7,7 @@
 
 ## 🚩 Table of Contents
 
-- [Why TOAST UI Editor?](#-why-oneforall)
+- [Why OneForAll?](#-why-oneforall)
 - [Browser Support](#-browser-support)
 - [Pull Request Steps](#-pull-request-steps)
 - [License](#-license)
