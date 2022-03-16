@@ -1,6 +1,6 @@
 # OneForAll
 
-> Licence management Software - Easy to use and Extensible
+> License management Software - Easy to use and Extensible
 
 <img src="![image](https://user-images.githubusercontent.com/101731147/158679084-abd69aa5-78a3-4122-b443-1fa2a2d82325.png)" />
 
