@@ -27,8 +27,8 @@ We are planning to bring plugin support in the future.
 
 ## 🎨 Features
 
-* [Viewer]![image](https://user-images.githubusercontent.com/101731147/158681174-ea3bbf52-c300-453e-a915-737474b33cd2.png) : View licence and edit with the clikc of a button.
-* [Editor]![image](https://user-images.githubusercontent.com/101731147/158681512-c8839553-28e2-41d7-92e1-43a78b786bd4.png) : Edit licence push the change to the server.
+* [Viewer]![image](https://user-images.githubusercontent.com/101731147/158681174-ea3bbf52-c300-453e-a915-737474b33cd2.png) : View license and edit with the click of a button.
+* [Editor]![image](https://user-images.githubusercontent.com/101731147/158681512-c8839553-28e2-41d7-92e1-43a78b786bd4.png) : Edit license and send the change.
 
 ## 🌏 Browser Support
 
