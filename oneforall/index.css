@@ -1,0 +1,38 @@
+/* https://www.cssportal.com/css-flexbox-generator/ */
+
+body {
+	margin:0;
+}
+h2 {
+	font-family: Arial, sans-serif;
+}
+.divtop {
+	border:1px;
+	border-bottom-style:solid;
+	width:100vw;
+	padding:5px;
+}
+.searchtop {
+	width:24em;
+}
+.buttontop {
+	width:12em;
+	margin-left:15px;
+}
+.buttontop2 {
+	width:7em;
+}
+.divmain {
+	display:flex;
+}
+.divmaintop {
+	border:1px;
+	border-bottom-style:solid;
+	height:50px;
+	text-align:center;
+}
+.divmainbody {
+	margin:50px;
+	border:1px solid;
+	height:100%;
+}
