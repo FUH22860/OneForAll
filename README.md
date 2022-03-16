@@ -27,8 +27,8 @@ We are planning to bring plugin support in the future.
 
 ## 🎨 Features
 
-* [Viewer](![image](https://user-images.githubusercontent.com/101731147/158681174-ea3bbf52-c300-453e-a915-737474b33cd2.png)) : View licence and edit with the clikc of a button.
-* [Editor](![image](https://user-images.githubusercontent.com/101731147/158681512-c8839553-28e2-41d7-92e1-43a78b786bd4.png)) : Edit licence push the change to the server.
+* [Viewer]![image](https://user-images.githubusercontent.com/101731147/158681174-ea3bbf52-c300-453e-a915-737474b33cd2.png) : View licence and edit with the clikc of a button.
+* [Editor]![image](https://user-images.githubusercontent.com/101731147/158681512-c8839553-28e2-41d7-92e1-43a78b786bd4.png) : Edit licence push the change to the server.
 
 ## 🌏 Browser Support
 
@@ -51,9 +51,9 @@ $ git clone https://github.com/{your-personal-repo}/OneForAll.git
 
 ### Pull Request
 
-Before uploading your PR, run test one last time to check if there are any errors. If it has no errors, commit and then push it!
+Before uploading your PR, test one last time to check if there are any errors. If there are no errors, commit and then push to `main`!
 
 ## 📜 License
 
-This software is licensed under the [GNU GPLv3](https://github.com/FUH22860/OneForAll/LICENSE.md).
+This software is licensed under the [GNU GPLv3](LICENSE.md) license.
 
