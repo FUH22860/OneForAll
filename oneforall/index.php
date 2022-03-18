@@ -15,11 +15,13 @@
 				<input type="submit" class="buttontop" name="lizab" value="Benutzer erstellen">
 			</form>
 		</div>
-		<div>
+		
+		<div class="divsubtop">
 			<button type="button" class="buttontop2">Lizenzen</button>
 			<button type="button" class="buttontop2">Kategorien</button>
 			<button type="button" class="buttontop2">Benutzer</button>
 		</div>
+
 		<div class="divmain">
 			<div class="divmaintop">
 				<h2>Übersicht</h2>

@@ -12,6 +12,11 @@ h2 {
 	width:100vw;
 	padding:5px;
 }
+
+.divsubtop {
+	border-bottom: 1px solid black; /* remove after testing */
+}
+
 .searchtop {
 	width:24em;
 }
@@ -24,12 +29,14 @@ h2 {
 }
 .divmain {
 	display:flex;
+	justify-content: center;
 }
 .divmaintop {
 	border:1px;
 	border-bottom-style:solid;
 	height:50px;
 	text-align:center;
+	margin: 0 auto;
 }
 .divmainbody {
 	margin:50px;
