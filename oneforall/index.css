@@ -32,14 +32,25 @@ h2 {
 	justify-content: center;
 }
 .divmaintop {
-	border:1px;
-	border-bottom-style:solid;
+	/* border:1px solid;  For testing purposes*/
 	height:50px;
 	text-align:center;
-	margin: 0 auto;
+	/* margin: 0 auto; Old way of centering*/
+	position:absolute;
+	left:0;
+	right:0;
 }
-.divmainbody {
-	margin:50px;
+.divcontent {
 	border:1px solid;
-	height:100%;
+	position:absolute;
+	left:0;
+	right:0;
+}
+
+hr {
+	margin: 0em;
+}
+
+h2 {
+	margin-bottom: 0em;
 }

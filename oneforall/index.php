@@ -25,8 +25,10 @@
 		<div class="divmain">
 			<div class="divmaintop">
 				<h2>Übersicht</h2>
+				<hr>
 			</div>
-			<div class="divmainbody">
+			<div class="divcontent">
+				<p>Test</p>
 			</div>
 		</div>
 		
