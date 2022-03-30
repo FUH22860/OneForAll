@@ -22,13 +22,18 @@
 			<button type="button" class="buttontop2">Benutzer</button>
 		</div>
 
-		<div class="divmain">
+		<div id="divmain">
 			<div class="divmaintop">
 				<h2>Übersicht</h2>
-				<hr>
 			</div>
-			<div class="divcontent">
-				<p>Test</p>
+			<div class="divmaincontent">
+				<p>Generelle Übersicht</p>
+			</div>
+			<div class="divmainnews">
+				<p>News Übersicht</p>
+			</div>
+			<div class="divmaincosts">
+				<p>Kosten Übersicht</p>
 			</div>
 		</div>
 		

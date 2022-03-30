@@ -9,12 +9,12 @@ h2 {
 .divtop {
 	border:1px;
 	border-bottom-style:solid;
-	width:100vw;
+	display:flex;
 	padding:5px;
 }
 
 .divsubtop {
-	border-bottom: 1px solid black; /* remove after testing */
+	/*border-bottom: 1px solid black; /* remove after testing */
 }
 
 .searchtop {
@@ -27,24 +27,36 @@ h2 {
 .buttontop2 {
 	width:7em;
 }
-.divmain {
-	display:flex;
-	justify-content: center;
+#divmain {
+	border:1px solid;
+	margin:50px;
+	height:80vh;
+	display:grid;
+	grid-template-areas:
+		'header header'
+		'main main'
+		'news costs';
+	grid-template-rows: 15% 65% 20%;
 }
 .divmaintop {
-	/* border:1px solid;  For testing purposes*/
-	height:50px;
+	grid-area: header;
+	border-bottom:1px solid;
 	text-align:center;
-	/* margin: 0 auto; Old way of centering*/
-	position:absolute;
-	left:0;
-	right:0;
 }
-.divcontent {
-	border:1px solid;
-	position:absolute;
-	left:0;
-	right:0;
+.divmaincontent {
+	grid-area: main;
+	text-align:center;
+}
+.divmainnews {
+	grid-area: news;
+	border-top:1px solid;
+	border-right:1px solid;
+	text-align:center;
+}
+.divmaincosts {
+	grid-area: costs;
+	border-top:1px solid;
+	text-align:center;
 }
 
 hr {
